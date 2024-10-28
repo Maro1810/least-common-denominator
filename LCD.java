@@ -29,8 +29,4 @@ public class LCD {
         
     }
     
-    public static void main(String[] args) {
-        LCD fraction = new LCD();
-        fraction.leastCommonDenominator(1238912, 13212);
-    }
 }
